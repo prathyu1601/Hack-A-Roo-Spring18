@@ -1,6 +1,6 @@
 # Hack-A-Roo-Spring18
 
-HACKATHON SPRING 2018 - UMKC SCE Chatbot
+HACKAROO SPRING 2018 - UMKC SCE Chatbot
 
 Youtube link to project : https://www.youtube.com/
 
