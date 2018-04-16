@@ -24,7 +24,7 @@ Application flow:
 
 
 
-On navigation to the link that the application provides to book an appointment, the user gets the doctor information like doctor name, degree, fee etc.
+On navigation to the link that the application provides to book an appointment with the Professor.
 
 The user can enter his information and select the appointment time,day from the list of available days. On clicking the "BOOK NOW" button, the application confirms that the appointment is confirmed.
 
