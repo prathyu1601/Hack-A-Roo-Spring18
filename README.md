@@ -22,6 +22,9 @@ API's used : Watson Conversation API
 
 Application flow:
 
+1) In the Index page of our Application general Admin/User can login and User can also register by entering his/her details
+
+2) By clicking on Register Button, user gets registered by entering his details like Name,
 
 
 On navigation to the link that the application provides to book an appointment with the Professor.
